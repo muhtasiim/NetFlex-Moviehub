@@ -17,7 +17,7 @@ section nav{
     align-items: center;
     justify-content: space-between;
     padding: 10px 5% 8px 5%;
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     background: #171717;
 }
 
@@ -93,7 +93,7 @@ section nav .right ul li a:hover{
   .swiper-slide .image .black .star{
     color: #ffd500;
     text-align: left;
-    font-size: 16px;
+    font-size: 15px;
     margin: 10px 0;
     position: relative;
     top: 60%;
